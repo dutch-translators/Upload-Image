@@ -1,4 +1,4 @@
-Quick-Style
+Upload-Image
 ===========
 
 Dutch translation of the Upload Image extension by JohnP
