@@ -18,10 +18,10 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'ACP_IMAGE_MANAGEMENT'			=> 'Upload Images',
-	'ACP_IMAGE_TITLE'				=> 'Upload Image',
+	'ACP_IMAGE_MANAGEMENT'			=> 'Upload Afbeeldingen',
+	'ACP_IMAGE_TITLE'				=> 'Upload Afbeelding',
 
 	'ACP_IMAGE_DELETE_ERRORED'		=> 'Er ging iets mis.',
-	'ACP_IMAGE_DELETE_SUCCESS'		=> 'Afbeelding verwijderd',
+	'ACP_IMAGE_DELETE_SUCCESS'		=> 'Afbeelding succesvol verwijderd',
 	'ACP_IMAGE_DELETED_LOG'			=> '<strong>Afbeelding verwijderd</strong><br />» %1s',
 ));
